@@ -31,6 +31,7 @@ This project aims to measure wound dimensions (length, width, and depth) from fo
 
 - **Depth Estimation:**  
   Uses Pressure Ulcer classification standards and applies Support Vector Machine (SVM) algorithms for classifying wound depth based on image features.
+  **Note:** Feature extraction in this model can be expanded further by incorporating additional visual features such as color histograms, texture descriptors (e.g., LBP, GLCM), edge sharpness, and shape metrics to improve classification accuracy.
 
     <img src="Picture7.jpg" width="800" alt="Pressure Ulcer Classification">
 
