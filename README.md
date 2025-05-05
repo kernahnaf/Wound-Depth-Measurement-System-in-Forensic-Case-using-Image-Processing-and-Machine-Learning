@@ -13,10 +13,10 @@
 A Python-based system developed as a final year undergraduate thesis (2023–2024), focusing on wound measurement in forensic cases using image processing and machine learning.
 
 ## 📄 Journal Publication of The Research Project
-[![Read Journal](https://img.shields.io/badge/Journal-Read-blue)](https://your-journal-link.com)
+[![Read Journal](https://img.shields.io/badge/Journal-Read-blue)](https://www.researchsquare.com/article/rs-5406106/latest)
 
 ## 🎥 Project Demo Video
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube)](https://www.youtube.com/watch?v=your_video_id)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube)](https://youtu.be/_fo2EKS3LKY)
 
 ## 🔍 Project Overview
 
