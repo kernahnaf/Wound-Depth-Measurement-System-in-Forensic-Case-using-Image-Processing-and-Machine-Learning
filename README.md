@@ -6,7 +6,7 @@
   <img src="Picture3.png" width="15%" />
   <br>
   <img src="Picture4.jpg" width="15%" />
-  <img src="Picture5.jpg" width="15%" />
+  <img src="Picture5.png" width="15%" />
   <img src="Picture6.jpg" width="15%" />
 </p>
 
