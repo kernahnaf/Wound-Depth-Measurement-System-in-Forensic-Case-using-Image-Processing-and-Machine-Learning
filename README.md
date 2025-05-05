@@ -51,7 +51,7 @@ The dataset used in this project **cannot be shared** due to **ethical and medic
 
 | 🔧 Component            | 💻 Implementation                          |
 |-------------------------|-------------------------------------------|
-| Image Processing        | OpenCV, ArUco Marker Detection            |
+| Image Processing        | OpenCV, Aruco Marker Detection            |
 | Automatic Measurement   | Contour Detection, Object Detection        |
 | Depth Classification    | scikit-learn (SVM model)                  |
 | Data Labeling           | Pressure Ulcer Stage Classification       |
