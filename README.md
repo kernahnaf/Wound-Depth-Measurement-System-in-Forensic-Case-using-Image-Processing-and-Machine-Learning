@@ -3,7 +3,7 @@
 <p align="center">
   <img src="Picture1.jpg" width="15%" />
   <img src="Picture2.jpg" width="15%" />
-  <img src="Picture3.jpg" width="15%" />
+  <img src="Picture3.png" width="15%" />
   <br>
   <img src="Picture4.jpg" width="15%" />
   <img src="Picture5.jpg" width="15%" />
